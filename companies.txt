@@ -1,0 +1,11 @@
+comp_num	comp_name	product/services	date	sp1	sp2	sp3	sp4	sp5	    
+1	Fresnillo plc	gold, mining	14-May-08	549.6	533.8	532	529.6	525.8
+2	kingfisher plc	home , Retailers	24-Nov-82	204.6	203	201.7	202.1	204
+3	segro plc	Real Estate, Investment 	01-Dec-49	690.8	679.2	685.4	695	701.4
+4	sai plc 	Investment Banking, Brokerage Services	18-May-07	705	698.6	690.4	695.2	700
+5	BT Group	Telecommunication, service providers	03-Dec-84	110	111.25	112.25	113.95	116.05
+6	Antofagasta plc	Industrial Metals, Mining	05-Jul-82	1351	1352	1354.9	1346.5	1328
+7	Entain plc	Casinos, Gambling	20-Mar-13	914.8	921.2	940.2	935	933.8
+8	kaipa mortgage 	Financial Services	27-Jun-86	642.8	640.6	651	659	649.6
+9	InterTek Group	Industrial Goods, basic resources	29-May-02	375	398	403	399	407
+10	Beazley plc	Insurance,Financial Services	12-Nov-02	517	515	514	518.5	528
